@@ -1,0 +1,25 @@
+# Ignore intermediate build files
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build
+*.suo
+*.user
+*.userprefs
+*.sln
+*.opensdf
+*.sdf
+*.sln.docstates
+*.xcodeproj
+*.xcworkspace
+*.app
+*.apk
+*.aab
+*.pdb
+*.log
+*.idb
+*.lastbuildstate
+
+# Ignore Visual Studio files
+.vs/
